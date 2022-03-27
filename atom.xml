@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Person</title>
   
-  
+  <subtitle>focus on learning skills and creations</subtitle>
   <link href="http://windfirecom.github.io/atom.xml" rel="self"/>
   
   <link href="http://windfirecom.github.io/"/>
@@ -10,7 +10,7 @@
   <id>http://windfirecom.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Mr.Liu</name>
     
   </author>
   
